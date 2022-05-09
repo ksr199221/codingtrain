@@ -5,3 +5,4 @@ White
 Yellow
 Pink
 Grey
+Light Blue
